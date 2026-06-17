@@ -140,7 +140,37 @@ flutter analyze
 
 ## Screenshots
 
-> Screenshots can be added here after capturing the app on your target device.
+Here is a visual walk-through of the AeroKeep predictive maintenance app:
+
+### 1. Secure Authentication & Onboarding
+User sign-in/sign-up screen featuring a modern glassmorphic theme.
+<p align="center">
+  <img src="screenshots/login_page.png" alt="AeroKeep Login Page" width="800" />
+</p>
+
+### 2. Fleet Dashboard & Health Metrics
+At-a-glance dashboard displaying vehicle health scores, upcoming maintenance alerts, and interactive KPI cards.
+<p align="center">
+  <img src="screenshots/dashboard.png" alt="AeroKeep Dashboard" width="800" />
+</p>
+
+### 3. Comprehensive Vehicle Management
+A full catalog of active aircraft/vehicles, detailing individual registration numbers, manufacturers, model details, odometer readings, and current status.
+<p align="center">
+  <img src="screenshots/vehicles.png" alt="AeroKeep Vehicles Screen" width="800" />
+</p>
+
+### 4. Predictive Analytics & Cost Trends
+Interactive visualizations for maintenance costs over time and category-wise spending using high-fidelity charts.
+<p align="center">
+  <img src="screenshots/analytics.png" alt="AeroKeep Analytics Screen" width="800" />
+</p>
+
+### 5. Appointments & Maintenance Scheduling
+Streamlined scheduling interface where users can coordinate and keep track of pending and approved inspections.
+<p align="center">
+  <img src="screenshots/appointments.png" alt="AeroKeep Appointments Screen" width="800" />
+</p>
 
 ---
 
